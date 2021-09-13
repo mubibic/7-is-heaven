@@ -19,4 +19,6 @@ public class UserInput {
     //WOOOPWOPPPWOPWPOWPWOWP
     // Hello this is Anders writing, and pushing stuff to GITHUB
 
+    //THis is for the buffet branch
+
 }
