@@ -30,10 +30,6 @@
         Point p2 = new Point(10,10);
 
 
-        System.out.println("Hello 7isHeaven");
-        System.out.println("Does this work");
-
-
     }
 
 
