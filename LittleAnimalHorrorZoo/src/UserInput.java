@@ -5,6 +5,7 @@ public class UserInput {
     private int userInputX;
 
 
+
     public void userControl(int inputX, int inputY){
 
         if (inputX <= 1 && inputX >= -1) {
@@ -16,6 +17,5 @@ public class UserInput {
 
 
     // Hello this is Anders writing, and pushing stuff to GITHUB
-
 
 }
